@@ -7,9 +7,6 @@ A simple weather application
 
 ## How to Use
 * Clone/download the repository to your local machine and unzip the WeatherApp.zip file.
-```
-git clone https://github.com/saxcrawford/weather-app.git
-```
 
 ## Language used and Other Technologies
 * HTML, CSS, and JavaScript.
