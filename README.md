@@ -12,5 +12,5 @@ git clone https://github.com/saxcrawford/weather-app.git
 ```
 
 ## Language used and Other Technologies
-* C#
+* HTML, CSS, and JavaScript.
 * OpenWeatherMap API (https://openweathermap.org/api/one-call-3)
