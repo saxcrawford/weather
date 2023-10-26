@@ -6,7 +6,7 @@ A simple weather application
 * Weather information includes current temperature and weather conditions.
 
 ## How to Use
-* Clone/download the repository to your local machine using the following link:
+* Clone/download the repository to your local machine and unzip Weather.zip.
 ```
 git clone https://github.com/saxcrawford/weather-app.git
 ```
